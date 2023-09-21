@@ -9,3 +9,9 @@ h1{
     color: rgb(246, 242, 248);text-transform: uppercase;
     
 }
+
+.sobre{
+  font-size: 25px;
+  color: bisque;
+text-transform: uppercase;
+}
