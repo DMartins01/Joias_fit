@@ -1,5 +1,6 @@
-body {background-color: #933cff;
-    background-image: linear-gradient(90deg, #933cff 0%, #000000 50%, #802bc5 100%);
+body {background-color: #c33cff;
+    background-image: linear-gradient(90deg, #c33cff 0%, #000000 30%, #040404 70%, #c33cff 99%);
+    
     }
 
 h1{
